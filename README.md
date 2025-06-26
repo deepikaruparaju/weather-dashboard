@@ -30,16 +30,23 @@ An interactive and responsive weather dashboard that displays real-time weather 
 How to integrate third-party APIs (OpenWeatherMap, Leaflet.js)
 
 Handling asynchronous requests with fetch()
+
 Using browser geolocation and dynamic DOM updates
+
 Building user-friendly, responsive web interfaces
+
 Designing UX features like autocomplete, dark mode, and real-time interaction
 
 📌 Future Improvements
 
 ⏳ Hourly and 7-day forecast using One Call API
+
 📊 Weather trends using Chart.js for data visualization
+
 📱 Progressive Web App (PWA) support for offline use
+
 🧠 Smart insights (e.g., travel suggestions, storm alerts)
+
 💾 Local storage for recent searches
 
 🧠 Author
