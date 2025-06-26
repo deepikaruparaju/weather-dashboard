@@ -49,10 +49,7 @@ Designing UX features like autocomplete, dark mode, and real-time interaction
 
 💾 Local storage for recent searches
 
-🧠 Author
-Deepika Ruparaju
-B.Tech CSE, GITAM University
-📧 ruparajudeepika@gmail.com
+
 
 
 
