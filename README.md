@@ -28,6 +28,7 @@ An interactive and responsive weather dashboard that displays real-time weather 
 📚 What I Learned
 
 How to integrate third-party APIs (OpenWeatherMap, Leaflet.js)
+
 Handling asynchronous requests with fetch()
 Using browser geolocation and dynamic DOM updates
 Building user-friendly, responsive web interfaces
