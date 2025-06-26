@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>WeatherScope Dashboard</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+</head>
+<body>
+  <header>
+    <div id="logo-container">
+      <img src="assets/logo.png" alt="IITTNiF Logo" id="logo" />
+    </div>
+    <h1>🌦️ WeatherScope Dashboard</h1>
+    <div id="controls">
+      <input id="search" type="text" placeholder="Search city..." autocomplete="off"/>
+      <div id="autocomplete-box" class="hidden"></div>
+      <button id="locate-btn">📍</button>
+      <button id="mode-toggle">🌙</button>
+    </div>
+  </header>
+
+  <div id="map"></div>
+  <div id="weather-info" class="hidden"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
