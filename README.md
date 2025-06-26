@@ -14,13 +14,7 @@ An interactive and responsive weather dashboard that displays real-time weather 
 - 🇺🇳 Country flag displayed with weather data
 - ⚡ Responsive UI that works across desktop and mobile devices
 
----
 
-## 🚀 Demo
-
-📦 **Source Code:** [https://github.com/yourusername/weather-dashboard](https://github.com/yourusername/weather-dashboard)
-
----
 
 ## 🛠 Tech Stack
 
